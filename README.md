@@ -1,4 +1,5 @@
 Tabela de Calendário Dinamica
+
 Este script Python cria uma tabela de calendário resumida e intuitiva em formato Excel. Ele permite ao usuário definir uma data mínima e utiliza a data atual como data máxima, evitando a acumulação de datas fixas. Esta abordagem é particularmente útil para evitar o gerenciamento manual de datas em consultas do Power Query.
 
 Funcionalidades
